@@ -1,0 +1,20 @@
+.seccionPrivada{
+    color: red;
+}
+
+.navbar-brand {
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+    font-size: 36px;
+  }
+
+footer{
+    background-color: black;
+}
+
+footer p{
+    color: white;
+}
